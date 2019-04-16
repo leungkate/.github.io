@@ -12,7 +12,7 @@
 
 <p>Please select one of the following versions:</p>
 <p>1. <a href="https://drive.google.com/open?id=16Yac9i6K9DEJ4KcCaz4TPlTOHRBFVcm6"><span>Excel version</span></a></p>
-<p>2. <a href="https://drive.google.com/open?id=1nRzB1CgBgzUXm7CQ7oKe7u4lDNJJpjfhBrP1wfwa1ag"><span>PDF version</span></a></p>
+<p>2. <a href="https://drive.google.com/open?id=1nuRCv6i87psGj5xFiBNXgbiPk3lvdF_T"><span>PDF version</span></a></p>
 <p>3. <a href="https://leungkate.github.io/.com/webpage.html"><span>Interactive version</span></a></p>
 
 <br>
