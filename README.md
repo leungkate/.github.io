@@ -6,7 +6,7 @@
 <div class="container">
 </div>
 
-<h1>Welcome to Chinese-English Legal Dictionary</u></h1>
+<h1>Welcome to Chinese-English Legal Dictionary</h1>
 
 <img src="https://www.naceweb.org/uploadedImages/images/2017/feature/legal-issues-stem-opt-rule-impact.jpg" height="500" width="840" />
 
